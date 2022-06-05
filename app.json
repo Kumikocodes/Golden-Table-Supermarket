@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "golden-table-supermarket",
+    "slug": "golden-table-supermarket",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "golden-table-supermarket"
+}
